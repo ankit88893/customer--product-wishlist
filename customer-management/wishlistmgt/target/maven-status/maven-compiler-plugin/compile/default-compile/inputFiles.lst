@@ -1,0 +1,14 @@
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\dto\CustomerDto.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\service\WishlistServiceImpl.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\dto\CreateWishedItemRequest.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\exception\WishlistNotFoundException.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\entities\WishedItem.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\DemoApplication.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\util\WishedItemUtil.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\dto\ProductDto.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\dao\IWishlistDao.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\exception\InvalidArgumentException.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\ServletInitializer.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\dto\WishedItemDto.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\controllers\WishItemRestController.java
+C:\Users\lucifer\OneDrive - DXC Production\Desktop\workspace 2\customer-management microunits\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishedItem\service\IWishlistService.java

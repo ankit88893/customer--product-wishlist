@@ -1,0 +1,11 @@
+.settings
+.classpath
+.project
+*.iml
+.idea
+<<<<<<< HEAD
+bin
+=======
+bin 
+>>>>>>> a688c52b50a958016063311e2a3f12cce9d78274
+**/target
